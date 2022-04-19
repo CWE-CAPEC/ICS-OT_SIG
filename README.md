@@ -1,5 +1,5 @@
 # CWE-CAPEC ICS/OT SIG
-Special Interest Group Establishing in May 2022
+CWE-CAPEC Industrial Control System and Operational Technology Special Interest Group Establishing in May 2022
 
 ## Mission and Initial Guidance
 Co-Chair: Greg Shannon
