@@ -19,11 +19,11 @@ ICS/OT vulnerability researchers, engineers, security professionals, and compani
 ## Securing Energy Infrastructure Executive Task Force
 Under the direction of Congress, DOE CESER’s [Securing Energy Infrastructure Executive Task Force (SEI ETF)](https://inl.gov/secureENERGY/) – a voluntary group of senior leaders representing energy sector asset owners and operators, venders/manufacturers, standards organization, research and academic institutions, National Laboratories, and government agencies – identified [20 new categories of security vulnerabilities for ICS](https://inl.gov/wp-content/uploads/2022/03/SEI-ETF-NCSV-TPT-Categories-of-Security-Vulnerabilities-ICS-v1_03-09-22.pdf) that are distinct from any category of vulnerability or weakness identified in information technology (IT). 
 
-As influenced by collaboration with the SEI ETF, CWE 4.7 is planned to be released with new entries related to:
+As influenced by collaboration with the SEI ETF, CWE 4.7 was released with new or updated entries related to:
 
-•	Improper handling of extreme environmental conditions
-•	Missing / incorrect documentation
-•	Reliance on third-party / untrustworthy components
+- [CWE-1384: Improper handling of extreme environmental conditions](https://cwe.mitre.org/data/definitions/1384.html)
+- [CWE-1059: Missing / incorrect documentation](https://cwe.mitre.org/data/definitions/1059.html)
+- [CWE-1357: Reliance on third-party / untrustworthy components](https://cwe.mitre.org/data/definitions/1357.html)
 
 Future versions of CWE will include additional categories based on the work by the SEI ETF, as well as input from the ICS/OT SIG.
 
