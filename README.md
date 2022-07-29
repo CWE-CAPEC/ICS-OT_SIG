@@ -1,6 +1,8 @@
 # CWE-CAPEC ICS/OT SIG
 CWE-CAPEC Industrial Control System and Operational Technology Special Interest Group Establishing in May 2022
 
+Next Meeting on August 31, 2022 at 3:00PM ET
+
 ## Mission and Initial Guidance
 Co-Chair: Greg Shannon
 Co-Chair: Alec Summers
