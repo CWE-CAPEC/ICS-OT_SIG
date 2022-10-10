@@ -29,6 +29,16 @@ As influenced by collaboration with the SEI ETF, CWE 4.7 was released with new o
 
 Future versions of CWE will include additional categories based on the work by the SEI ETF, as well as input from the ICS/OT SIG.
 
+## "Boosting CWE Content" Subgroup
+This sub-working group will engage stakeholders in boosting CWE content for ICS/OT, including expanding content when applicable by adding new entries or enhancing existing entries. The effort will identify gaps in the current [ICS/OT CWE view] (https://cwe.mitre.org/data/definitions/1358.html) and analyze the scope and nature of those gaps. The effort will also add appropriate weaknesses to categories without any weaknesses, where supported by CWE’s established scope. The group will also contribute to public discussions of potential changes to CWE’s scope that may benefit the ICS/OT community. Boosting may include the identification of sub-domains of weaknesses.
+
+- Kickoff Meeting on October 12, 2022 at 10:30 am ET
+
+## "Mapping CWE to ISA/IEC 62443” Subgroup
+The goal of this sub-working group is to have a documented association of the CWE list of software and hardware weakness types to the current ISA/IEC 62443 cybersecurity standards in ICS/OT. If there are no restrictions imposed by ISA or other parties, then CWE will capture these associations using “Taxonomy Mappings” elements within the relevant CWE weaknesses. The group will also contribute to public discussions of potential changes to CWE’s scope that may benefit the ICS/OT community. 
+
+- Kickoff Meeting on October 11, 2022 at 1:00 pm ET
+
 ## Sign Up
 Sign-up for the ICS/OT CWE SIG mailing listserv to receive updates and meeting notifications: cwe@mitre.org
 
