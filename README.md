@@ -1,5 +1,5 @@
-# CWE-CAPEC ICS/OT SIG 
-CWE-CAPEC Industrial Control System and Operational Technology Special Interest Group (established in May 2022)
+# CWE ICS/OT SIG 
+CWE Industrial Control System and Operational Technology Special Interest Group (established in May 2022)
 
 Next Meeting on July 26, 2023 at 3:00PM ET
 
@@ -7,10 +7,10 @@ Next Meeting on July 26, 2023 at 3:00PM ET
 Co-Chair: Matthew Luallen
 Co-Chair: Alec Summers
 
-In partnership with the U.S. Department of Energy’s (DOE) Office of Cybersecurity, Energy Security, and Emergency Response (CESER), the CWE/CAPEC program – operated by the CISA-funded Homeland Security Systems Engineering and Development Institute (HSSEDI) – has formed a new special interest group focusing on security weaknesses in industrial control systems (ICS) and operational technology (OT): the CWE-CAPEC ICS/OT SIG. The kickoff was held on Wednesday, May 18, 2022.
+In partnership with the U.S. Department of Energy’s (DOE) Office of Cybersecurity, Energy Security, and Emergency Response (CESER), the CWE program – operated by the CISA-funded Homeland Security Systems Engineering and Development Institute (HSSEDI) – has formed a new special interest group focusing on security weaknesses in industrial control systems (ICS) and operational technology (OT): the CWE ICS/OT SIG. The kickoff was held on Wednesday, May 18, 2022.
 
 ## Background
-The CWE-CAPEC ICS/OT SIG offers a forum for researchers and technical representatives from organizations operating in ICS/OT design, manufacturing, and security to interact, share opinions and expertise, and leverage each other’s experiences in supporting continued growth and adoption of CWE as a common language for defining ICS/OT security weaknesses and their associated patterns of attack. 
+The CWE ICS/OT SIG offers a forum for researchers and technical representatives from organizations operating in ICS/OT design, manufacturing, and security to interact, share opinions and expertise, and leverage each other’s experiences in supporting continued growth and adoption of CWE as a common language for defining ICS/OT security weaknesses and their associated patterns of attack. 
 
 ## Objective
 While IT has an extant body of work related to identify and classifying security weaknesses, IT and ICS/OT are different, and existing IT classifications are not always useful in describing and managing security weaknesses in ICS/OT systems. Addressing this gap will help all stakeholders communicate more efficiently and effectively and promote a unity of effort in identifying and mitigating ICS/OT security weaknesses, especially in critical infrastructure.
