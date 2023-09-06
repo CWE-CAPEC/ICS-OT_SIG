@@ -13,7 +13,7 @@ In partnership with the U.S. Department of Energy’s (DOE) Office of Cybersecur
 The CWE ICS/OT SIG offers a forum for researchers and technical representatives from organizations operating in ICS/OT design, manufacturing, and security to interact, share opinions and expertise, and leverage each other’s experiences in supporting continued growth and adoption of CWE as a common language for defining ICS/OT security weaknesses and their associated patterns of attack. 
 
 ## Objective
-While IT has an extant body of work related to identify and classifying security weaknesses, IT and ICS/OT are different, and existing IT classifications are not always useful in describing and managing security weaknesses in ICS/OT systems. Addressing this gap will help all stakeholders communicate more efficiently and effectively and promote a unity of effort in identifying and mitigating ICS/OT security weaknesses, especially in critical infrastructure.
+While IT has an extant body of work related to identifying and classifying security weaknesses, IT and ICS/OT are different, and existing IT classifications are not always useful in describing and managing security weaknesses in ICS/OT systems. Addressing this gap will help all stakeholders communicate more efficiently and effectively and promote a unity of effort in identifying and mitigating ICS/OT security weaknesses, especially in critical infrastructure.
 
 ## Intended Participants
 ICS/OT vulnerability researchers, engineers, security professionals, and companies representing OEMs/system integrators, tools/infrastructure vendors, and asset owners and operators. Managers and other organizational leaders are also welcome, although it is preferred that they are accompanied by technical staff. 
