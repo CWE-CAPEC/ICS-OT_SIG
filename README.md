@@ -23,9 +23,9 @@ Under the direction of Congress, DOE CESER’s [Securing Energy Infrastructure E
 
 As influenced by collaboration with the SEI ETF, CWE 4.7 was released with new or updated entries related to:
 
-- [CWE-1384: Improper handling of extreme environmental conditions](https://cwe.mitre.org/data/definitions/1384.html)
-- [CWE-1059: Missing / incorrect documentation](https://cwe.mitre.org/data/definitions/1059.html)
-- [CWE-1357: Reliance on third-party / untrustworthy components](https://cwe.mitre.org/data/definitions/1357.html)
+- [CWE-1384: Improper Handling of Physical or Environmental Conditions](https://cwe.mitre.org/data/definitions/1384.html)
+- [CWE-1059: Insufficient Technical Documentation](https://cwe.mitre.org/data/definitions/1059.html)
+- [CWE-1357: Reliance on Insufficiently Trustworthy Component](https://cwe.mitre.org/data/definitions/1357.html)
 
 Future versions of CWE will include additional categories based on the work by the SEI ETF, as well as input from the ICS/OT SIG.
 
