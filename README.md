@@ -1,7 +1,7 @@
 # CWE ICS/OT SIG 
 CWE Industrial Control System and Operational Technology Special Interest Group (established in May 2022)
 
-Next Meeting on July 26, 2023 at 3:00PM ET
+Next Meeting: CWE ICS/OT SIG Fall Workshop on November 14, 2023 from 1-4PM ET. This workshop is intended for SIG members that have participated in previous subgroup efforts to map CWE to the ISA/IEC 62443 set of standards. We will make a concerted effort to complete the remaining milestones associated with that previous effort. 
 
 ## Mission and Initial Guidance
 Co-Chair: Matthew Luallen
